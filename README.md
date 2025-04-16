@@ -5,7 +5,7 @@
 1. [Github Account](https://www.github.com)
 2.  [HerokuAccount](https://www.heroku.com)
 3. [VSCodeId](https://www.code.visualstudio.com)
-4. [GitCLI]
+4. [GitCLI](https://git-scm.com/downloads)
 
 Create a new Environment
 
